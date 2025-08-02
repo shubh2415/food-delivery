@@ -5,7 +5,7 @@ A modern and user-friendly web application for ordering your favorite food from 
 
 🚀 Live Demo
 Check out the live version of the application here:
-https://food-delivery.shubhamtel.me
+[https://food-delivery.shubhamtel.me](https://food-delivery.shubhamtel.me/)
 
 ✨ Features
 User Authentication: Secure login and registration system for users.
