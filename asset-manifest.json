@@ -1,16 +1,25 @@
 {
   "files": {
     "main.css": "/food-delivery/static/css/main.5b16202c.css",
-    "main.js": "/food-delivery/static/js/main.2e8a71b5.js",
+    "main.js": "/food-delivery/static/js/main.a693b314.js",
     "static/js/453.a1e98c8c.chunk.js": "/food-delivery/static/js/453.a1e98c8c.chunk.js",
+    "static/media/pizza.jpg": "/food-delivery/static/media/pizza.06aa14cb8966c8896da4.jpg",
+    "static/media/burger.jpg": "/food-delivery/static/media/burger.a361e18824a0b6c697cc.jpg",
+    "static/media/cold.jpg": "/food-delivery/static/media/cold.baa6c9c43a15e1cb279d.jpg",
+    "static/media/pasta.jpg": "/food-delivery/static/media/pasta.bd27af47c1119cae1b6f.jpg",
+    "static/media/roll.jpg": "/food-delivery/static/media/roll.e4cfd30e3eaea355d691.jpg",
+    "static/media/banner1.jpg": "/food-delivery/static/media/banner1.6750c8a10a273d0fd875.jpg",
+    "static/media/sandwitch.jpg": "/food-delivery/static/media/sandwitch.18fa9e8b422c0f1c657e.jpg",
     "static/media/banner2.jpg": "/food-delivery/static/media/banner2.ea354fa7128791b60f56.jpg",
+    "static/media/banner3.jpg": "/food-delivery/static/media/banner3.a4eed5eaa83d62fdeb43.jpg",
+    "static/media/shubham.jpg": "/food-delivery/static/media/shubham.f7f1406d878b86b7b866.jpg",
     "index.html": "/food-delivery/index.html",
     "main.5b16202c.css.map": "/food-delivery/static/css/main.5b16202c.css.map",
-    "main.2e8a71b5.js.map": "/food-delivery/static/js/main.2e8a71b5.js.map",
+    "main.a693b314.js.map": "/food-delivery/static/js/main.a693b314.js.map",
     "453.a1e98c8c.chunk.js.map": "/food-delivery/static/js/453.a1e98c8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b16202c.css",
-    "static/js/main.2e8a71b5.js"
+    "static/js/main.a693b314.js"
   ]
 }
